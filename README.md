@@ -40,12 +40,13 @@ This API seamlessly integrates with body sensors to:
 ---
 
 ## 📦 Installation
-git clone https://github.com/yourusername/diabetes-monitor-api.git
-cd diabetes-monitor-api
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
+- Bash:
+- git clone [https://github.com/yourusername/diabetes-monitor-api.git](https://github.com/0AhmedElHawary0/Diabetia.git)
+- cd Diabetia
+- composer install
+- cp .env.example .env
+- php artisan key:generate
+- php artisan migrate
 
 ---
 
